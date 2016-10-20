@@ -157,6 +157,28 @@
           }
         ],
         "title": "Android Coach"
+      },
+           {
+        "name": "Balaji Babu",
+        "photoUrl": "/images/people/balaji_babu.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/117670601284712693018",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/trs_balajibabu",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "https://developers.google.com/groups/chapter/115695199394983068608/",
+            "name": "Chapter"
+          }
+        ],
+        "title": "Volunteer"
       }
     ]
   }
