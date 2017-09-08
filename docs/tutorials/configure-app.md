@@ -4,30 +4,26 @@ The most important file of configuration is `data/hoverboard.config.json`
 which looks like:
 
 ```
-  "pages": {..},
-  "navigation": [..],
   "url": "..",
+  "startDate": "..",
+  "endDate": "..",
+  "analytics": {..},
+  "organizer": {..},
+  "webapp": {..},
+  "firebase": {..},
   "mailchimp": {..},
-  "partnershipProposition": "..",
-  "languages": [..],
-  "footerBlocks": [..],
-  "contactBlock": {..},
-  "tickets": {..},
-  "teamPageTitle": "..",
-  "teamPageText": "..",
-  "statistics": [..],
   "hashtag": "..",
-  "social": [..],
+  "disqusShortName": "..",
   "tweetsSource": "..",
-  "gallery": {..},
-  "location": {..},
+  "partnershipProposition": "..",
   "videosSessionsUrl": "..",
-  "callToAction": {..}
+  "enableSessionsRating": "..",
+  "navigation": [..],
+  "social": [..],
+  "location": {..}
+  "social": [..],
+  "gallery": {..}
 ```
-
-**Note**, the project supports localization using [AppLocalizeBehavior][
-AppLocalizeBehavior], that's why some of the config values are keys in
-[localization resources][localization resources].
 
 ### SEO
 The project doesn't use any generators, so there is a need to edit manually
@@ -121,22 +117,28 @@ And in navigation
 
 This configs reflects in `toolbar-block.html` and `drawer-block.html`
 
-### Optional steps
+### Tweets
+```
+"tweetsSource": "/data/tweets.json",
+```
+To make it more dynamic use [Tweetledee](http://chrissimpkins.github.io/tweetledee/)
+which provides ready-bake PHP files that allow you to access Twitter user
+timelines, user favorites, lists, home timelines, and tweet search data in a JSON.
+```
+"tweetsSource": "https://<YOUR_APP>.herokuapp.com/favoritesjson.php?c=10&cache_interval=8000",
+```
+You can install Tweetledee on [Heroku](https://www.heroku.com/).
+Download the latest version of Tweetledee; unzip and deploy on their server.  
+**Note:** don't forget to enable CORS, changing `$TLD_JS = 0;` to `$TLD_JS = 1;`.  
+Read [full documentation](http://chrissimpkins.github.io/tweetledee/) on the official website.
 
-Edit event content for your GDG in data folder 
-`blogs.json`
-`partners.json`
-`schedule.json`
-`sessions.json`
-`team.json`
-`tweets.json`
-`videos.json`
 
 # Next steps
 
-Now your Hoverboard is up configured, learn how to [style app][style app] and [deploy][deploy].
+Now your Hoverboard is up configured, learn how to integrate [firebase][firebase] in your app, [style app][style app] and [deploy][deploy].
 
 [AppLocalizeBehavior]: https://elements.polymer-project.org/elements/app-localize-behavior
-[localization resources]: /data/en/resources.json
+[localization resources]: /data/resources.json
 [style app]: styling.md
 [deploy]: deploy.md
+[firebase]: firebase.md
