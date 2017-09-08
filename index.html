@@ -5,26 +5,28 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
-  <meta name="description" content="{$ description $}">
-  <meta name="keywords" content="{$ keywords $}">
-  <meta name="author" content="{$ organizer.name $}">
+  <meta name="description"
+        content="The biggest Google Developers conference in Seattle carefully crafted for you by GDG community! All about Android, Web and Cloud from skilled experts">
+  <meta name="keywords"
+        content="event, gdg, gde, gcp, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev">
+  <meta name="author" content="GDG Seattle">
 
-  <title>{$ title $}</title>
+  <title>GDG DevFest Seattle 2017</title>
 
-  <link rel="canonical" href="{$ url $}">
-  <link rel="shortcut icon" sizes="32x32" href="/images/favicon/favicon-32.png">
+  <link rel="canonical" href="https://devfestseattle.org">
+  <link rel="shortcut icon" sizes="32x32" href="images/favicon/favivon-32.png">
 
   <meta name="theme-color" content="{$ webapp.themeColor $}">
   <link rel="manifest" href="manifest.json">
 
   <!-- Add to homescreen for Chrome on Android -->
   <meta name="mobile-web-app-capable" content="yes"> <!-- fallback for manifest.json -->
-  <meta name="application-name" content="{$ title $}"> <!-- fallback for manifest.json -->
+  <meta name="application-name" content="GDG DevFest Seattle 2017"> <!-- fallback for manifest.json -->
 
   <!-- Add to homescreen for Safari on iOS -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="{$ title $}">
+  <meta name="apple-mobile-web-app-title" content="GDG DevFest Seattle 2017">
 
   <!-- Homescreen icons. -->
   <link rel="shortcut icon" href="/images/favicon/favicon-72.png">
@@ -40,28 +42,31 @@
   <meta name="msapplication-tap-highlight" content="no">
 
   <!-- G+ sharing meta data -->
-  <meta itemprop="name" content="{$ title $}">
-  <meta itemprop="description" content="{$ description $}">
-  <meta itemprop="image" content="/images/social-share.jpg">
-  <meta itemprop="startDate" content="{$ startDate $}">
-  <meta itemprop="endDate" content="{$ endDate $}">
+  <meta itemprop="name" content="GDG DevFest Seattle 2017">
+  <meta itemprop="description"
+        content="The biggest Google Developers conference in Seattle carefully crafted for you by GDG community! All about Android, Web and Cloud from skilled experts">
+  <meta itemprop="image" content="images/social-share.png">
+  <meta itemprop="startDate" content="2016-09-09T09:00:00+03:00">
+  <meta itemprop="endDate" content="2016-09-10T19:00:00+03:00">
 
   <!-- Facebook sharing meta data -->
-  <meta property="og:title" content="{$ title $}">
-  <meta property="og:site_name" content="{$ title $}">
+  <meta property="og:title" content="GDG DevFest Seattle 2017">
+  <meta property="og:site_name" content="GDG DevFest Seattle 2017">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="{$ url $}">
-  <meta property="og:description" content="{$ description $}">
+  <meta property="og:url" content="https://devfestseattle.org">
+  <meta property="og:description"
+        content="The biggest Google tech conference in Seattle carefully crafted for you by GDG community! All about Android, Web and Cloud from skilled experts">
   <meta property="og:type" content="Event">
   <meta property="og:image" content="/images/social-share.jpg">
   <meta property="og:image:type" content="image/png" />
 
   <!-- Twitter meta data -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:creator" content="@{$ organizer.twitter $}">
-  <meta name="twitter:title" content="{$ title $}">
-  <meta name="twitter:description" content="{$ description $}">
-  <meta name="twitter:image" content="/images/social-share.jpg">
+  <meta name="twitter:creator" content="@seattlegdg">
+  <meta name="twitter:title" content="GDG DevFest Seattle 2017">
+  <meta name="twitter:description"
+        content="The biggest Google tech conference in Seattle carefully crafted for you by GDG community! All about Android, Web and Cloud from skilled experts">
+  <meta name="twitter:image" content="images/social-share.png">
 
   <link rel="dns-prefetch" href="https://www.google-analytics.com">
   <link rel="dns-prefetch" href="https://apis.google.com">
@@ -71,6 +76,10 @@
   <!-- Unsupported browser checks need to come before webcomponents.js is loaded,
        otherwise unsupported browsers will error out and not record a pageview.
        Analytics lib is also loaded up front for error reporting. -->
+
+
+
+
   <script src="https://www.google-analytics.com/analytics.js" async></script>
 
   <style>
@@ -125,6 +134,23 @@
   </script>
 
   <link rel="import" href="/src/hoverboard-app.html" async>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Event",
+      "name": "GDG DevFest Seattle 2017",
+      "description": "The biggest Google Developers conference in Seattle carefully crafted for you by GDG community! All about Android, Web and Cloud from skilled experts",
+      "startDate": "2017-10-07T10:00:00",
+      "endDate": "2017-10-07T16:30:00",
+      "url": "https://devfestseattle.org",
+      "location": {
+        "@type" : "Place",
+        "name" : "Center of the Universe - Google Event Center Fremont",
+        "address": "601 N 34th St, Seattle"
+      }
+    }
+  </script>
 
 </head>
 <body>

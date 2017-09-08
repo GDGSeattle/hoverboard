@@ -1,6 +1,6 @@
 {
-  "name": "{$ title $}",
-  "short_name": "{$ webapp.shortName $}",
+  "name": "GDG DevFest Seattle 2017",
+  "short_name": "GDG DevFest Seattle 2017",
   "icons": [
     {
       "src": "images/touch/homescreen-48.png",

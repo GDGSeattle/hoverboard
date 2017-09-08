@@ -50,10 +50,10 @@ and execute the commands associated to the docker env in the following documenta
 ##### Install dependencies
 
     npm install
-    
-Or you can install with Docker container: 
-     
-    docker run -v "$PWD":/app hoverboard npm install 
+
+Or you can install with Docker container:
+
+    docker run -v "$PWD":/app hoverboard npm install
 
 ##### Start the development server
 
@@ -61,7 +61,7 @@ This command serves the app at `http://localhost:3000` and provides basic URL
 routing for the app:
 
     npm run serve
-    
+
 Or you can serve Docker container:
 
     docker run -v "$PWD":/app hoverboard
