@@ -32,5 +32,20 @@
   "engines": {
     "node": ">=4.0"
   },
-  "private": true
+  "private": true,
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDGSeattle/hoverboard.git"
+  },
+  "author": "cb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GDGSeattle/hoverboard/issues"
+  },
+  "homepage": "https://github.com/GDGSeattle/hoverboard#readme"
 }
