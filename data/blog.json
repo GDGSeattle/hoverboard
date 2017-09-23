@@ -1,20 +1,11 @@
 [
   {
-    "id": "devfest-2016-announced",
-    "title": "GDG DevFest 2016 Announced",
-    "posted": "2016-09-14",
+    "id": "devfest-2017-announced",
+    "title": "GDG DevFest 2017 Announced",
+    "posted": "2017-09-12",
     "primaryColor": "#00BCD4",
     "secondaryColor": "#00BCD4",
     "image": "/images/posts/announce.jpg",
-    "brief": "Seattle Google Developers Group is proud to announce the fifth annual GDG DevFest 2016 which is the biggest Google related event in Seattle carefully crafted by GDG community! The event will take place on **October 15 ** in **Seattle**."
-  },
-   {
-    "id": "devfest-2016-announced",
-    "title": "GDG DevFest 2016 Update",
-    "posted": "2016-09-14",
-    "primaryColor": "#00BCD4",
-    "secondaryColor": "#00BCD4",
-    "image": "/images/posts/announce.jpg",
-    "brief": "At the end of the DevFest there will be an opportunity to for show/tell of what you learned at the event. The event will take place on **Sat 15 of October** in **Seattle**."
+    "brief": "Seattle Google Developers Group is proud to announce the sixth annual GDG DevFest 2016 which is the biggest Google related event in Seattle carefully crafted by GDG community! The event will take place on **October 7 ** in **Seattle**."
   }
 ]
