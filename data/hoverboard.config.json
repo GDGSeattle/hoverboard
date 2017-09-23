@@ -1,55 +1,24 @@
 {
-  "pages": {
-    "home": {
-      "headerSettings": {
-        "backgroundColor": "#37474F",
-        "backgroundImage": "/images/backgrounds/home.png",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Seattle 2017",
-          "youtubeId": "Rc6kWjMfcEg",
-          "text": "See how it was in 2016"
-        },
-        "hideLogo": true,
-        "minHeight": "360px"
-      }
-    },
-    "blog": {
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "speakers": {
-      "headerSettings": {
-        "backgroundColor": "#3f51b5",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "schedule": {
-      "headerSettings": {
-        "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "team": {
-      "headerSettings": {
-        "backgroundColor": "#009688",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "cod": {
-      "headerSettings": {
-        "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    }
+  "url": "https://devfestseattle.org/",
+  "startDate": "2017-10-07T09:30:00+05:00",
+  "endDate": "2017-10-07T16:00:00+05:00",
+  "organizer": {
+    "name": "GDG Seattle",
+    "twitter": "gdgseattle"
+  },
+  "webapp": {
+    "shortName": "DevFest",
+    "themeColor": "#F57C00",
+    "backgroundColor": "#F57C00"
+  },
+  "firebase": {
+    "name": "devfest-5e732",
+    "domain": "devfest-5e732.firebaseapp.com",
+    "database": "https://devfest-5e732.firebaseio.com",
+    "api": "AIzaSyBeixC2HWEhD3qKk-yjeySjOnIUWBhon98",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
   },
   "navigation": [
     {
@@ -69,90 +38,75 @@
       "permalink": "/team/"
     }
   ],
-  "footerBlocks": [
+  "social": [
     {
-      "title": "for-visitors",
-      "links": [
-        {
-          "text": "team",
-          "url": "/team/"
-        },
-        {
-          "text": "cod",
-          "url": "/cod/"
-        },
-        {
-          "text": "google-developers",
-          "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "http://www.meetup.com/seattle-gdg/events/125948972/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://www.meetup.com/seattle-gdg/events/155658502/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "http://www.meetup.com/seattle-gdg/events/224992988/",
-          "newTab": true
-        },
-         {
-          "text": "df-16",
-          "url": "https://medium.com/@margaretmz/devfest-seattle-2016-556d96bae8f6#.y9ecdxo5y/",
-          "newTab": true
-        }
-      ]
+      "name": "twitter",
+      "nickname": "gdgseattle",
+      "url": "https://twitter.com/gdgseattle"
     },
     {
-      "title": "for-partners",
-      "links": [
-        {
-          "text": "partnership-proposition",
-          "url": "mailto:gdgseattle@googlemail.com",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "mailto:gdgseattle@googlemail.com",
-          "newTab": true
-        }
-      ]
+      "name": "gplus",
+      "nickname": "104304419342230315027",
+      "url": "https://plus.google.com/104304419342230315027"
     }
   ],
-  "contactBlock": {
-    "links": [
-      {
-        "text": "gdgseattle@googlemail.com",
-        "url": "mailto:gdgseattle@googlemail.com"
+  "pages": {
+    "home": {
+      "title": "Home",
+      "headerSettings": {
+        "backgroundColor": "#37474F",
+        "backgroundImage": "/images/backgrounds/home.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "GDG DevFest Seattle 2017",
+          "youtubeId": "Rc6kWjMfcEg",
+          "text": "See how it was in 2016"
+        },
+        "hideLogo": true,
+        "minHeight": "360px"
       }
-    ]
-  },
-  "tickets": {
-    "url": "https://www.eventbrite.com/e/gdg-devfest-seattle-2017-tickets-37585313685",
-    "elements": [
-      {
-        "name": "early-ticket",
-        "price": 30,
-        "currency": "$",
-        "starts": "early-ticket-starts",
-        "ends": "early-ticket-ends",
-        "info": "early-ticket-info",
-        "soldOut": true
-      },
-      {
-        "name": "general-ticket",
-        "price": 38,
-        "currency": "$",
-        "starts": "general-ticket-starts",
-        "ends": "general-ticket-ends",
-        "soldOut": false
+    },
+    "blog": {
+      "title": "Blog",
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
       }
-    ]
+    },
+    "speakers": {
+      "title": "Speakers",
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Schedule",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "title": "Team",
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "title": "Cod of Conduct",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
   },
   "teamPageTitle": "team-page-title",
   "teamPageText": "team-page-text",
@@ -175,18 +129,6 @@
     }
   ],
   "hashtag": "DevFestSEA",
-  "social": [
-    {
-      "name": "twitter",
-      "nickname": "gdgseattle",
-      "url": "https://twitter.com/gdgseattle"
-    },
-    {
-      "name": "gplus",
-      "nickname": "104304419342230315027",
-      "url": "https://plus.google.com/104304419342230315027"
-    }
-  ],
   "tweetsSource": "/data/tweets.json",
   "gallery": {
     "albumUrl": "http://www.meetup.com/seattle-gdg/photos/26595806/#444809045",
@@ -200,7 +142,9 @@
   },
   "location": {
     "apiKey": "AIzaSyBQDUaVHzLdaNqD9umeDtxIKdY0bgRWrEI",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Center of the Universe, Google Seattle",
+    "address": "651 N 34th St, Seattle, WA",
+    "link": "",
     "pointer": {
       "latitude": 47.648991,
       "longitude": -122.351106,
@@ -219,6 +163,6 @@
   "videosSessionsUrl": "https://www.youtube.com/user/GoogleDevelopers/featured",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "Rc6kWjMfcEg" 
+    "videoId": "Rc6kWjMfcEg"
   }
 }
