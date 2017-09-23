@@ -1,7 +1,7 @@
 {
   "url": "https://devfestseattle.org/",
-  "startDate": "2017-10-07T09:30:00+05:00",
-  "endDate": "2017-10-07T16:00:00+05:00",
+  "startDate": "2017-10-07T09:30:00+07:00",
+  "endDate": "2017-10-07T16:00:00+07:00",
   "organizer": {
     "name": "GDG Seattle",
     "twitter": "gdgseattle"
@@ -12,10 +12,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "devfest-5e732",
-    "domain": "devfest-5e732.firebaseapp.com",
-    "database": "https://devfest-5e732.firebaseio.com",
-    "api": "AIzaSyBeixC2HWEhD3qKk-yjeySjOnIUWBhon98",
+    "name": "devfest17-555a9",
+    "domain": "devfest17-555a9.firebaseapp.com",
+    "database": "https://devfest17-555a9.firebaseio.com",
+    "api": "AIzaSyB-hBetspAWMuPuiLfhFJ21xvvadll4rqc",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
