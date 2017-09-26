@@ -186,7 +186,7 @@
         </paper-menu-button>
 
         <div class="action-button-wrapper" hidden$="[[app.isPhoneSize]]" layout horizontal center-center>
-          <a window.location.href="home" href="{$ tickets.url $}" target="_blank">
+          <a window.location.href="home" href="{$ tickets.url $}" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
             <div class="primary"> 
             <paper-button class="action-button" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button>
           </div>
