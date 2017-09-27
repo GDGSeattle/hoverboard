@@ -50,7 +50,7 @@
 
       paper-tabs a {
         color: var(--header-color);
-        transition: color .7s
+        transition: color .7s;
       }
 
       paper-tab {
@@ -186,9 +186,9 @@
         </paper-menu-button>
 
         <div class="action-button-wrapper" hidden$="[[app.isPhoneSize]]" layout horizontal center-center>
-          <a window.location.href="home" href="{$ tickets.url $}" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+          <a href="{$ tickets.url $}#ticketsgdg" rel="noopener noreferrer" on-tap="_scrollToTickets">
             <div class="primary"> 
-            <paper-button class="action-button" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button>
+            <paper-button class="action-button" raised>{$ buyTicket $}</paper-button>
           </div>
           </a>
       </div>
@@ -255,8 +255,15 @@
                     target: HOVERBOARD.Elements.Scroller
                   });
                 }
+
+              
       });
 
+        var url=window.location.href;
+            if (url.indexOf("ticketsgdg") !== -1){
+                _scrollToTickets();
+        }
+      window.onpopstate = function(event) {   alert("location: " + document.location + ", state: " + JSON.stringify(event.state)); };
     }());
   </script>
 
