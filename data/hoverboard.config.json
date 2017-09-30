@@ -4,7 +4,7 @@
   "endDate": "2017-10-07T16:00:00+07:00",
   "organizer": {
     "name": "GDG Seattle",
-    "twitter": "gdgseattle"
+    "twitter": "devfestsea"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -41,8 +41,8 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "gdgseattle",
-      "url": "https://twitter.com/gdgseattle"
+      "nickname": "DEVFESTSEA",
+      "url": "https://twitter.com/devfestsea"
     },
     {
       "name": "gplus",
@@ -100,7 +100,7 @@
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Code of Conduct",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -128,7 +128,7 @@
       "caption": "codelabs"
     }
   ],
-  "hashtag": "DevFestSEA",
+  "hashtag": "DEVFESTSEA",
   "tweetsSource": "/data/tweets.json",
   "gallery": {
     "albumUrl": "http://www.meetup.com/seattle-gdg/photos/26595806/#444809045",
