@@ -3,8 +3,8 @@
   "startDate": "2017-10-07T09:30:00+07:00",
   "endDate": "2017-10-07T16:00:00+07:00",
   "organizer": {
-    "name": "GDG Seattle",
-    "twitter": "#devfestsea"
+    "name": "GDGSeattle",
+    "twitter": "gdgseattle"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -41,7 +41,7 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "#DEVFESTSEA",
+      "nickname": "gdgseattle",
       "url": "https://twitter.com/gdgseattle"
     },
     {
@@ -129,7 +129,7 @@
     }
   ],
   "hashtag": "DEVFESTSEA",
-  "tweetsSource": "/data/tweets.json",
+  "tweetsSource": "",
   "gallery": {
     "albumUrl": "http://www.meetup.com/seattle-gdg/photos/26595806/#444809045",
     "photos": {
