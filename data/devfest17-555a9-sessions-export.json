@@ -1,0 +1,84 @@
+{
+  "101" : {
+    "description" : "The Firebase JavaScript SDK can be used for more than just web apps, since it supports running in Node.js, ReactNative, and Cordova. In this talk, you'll learn how to design and structure a Firebase application that can be re-purposed to multiple platforms (web, server, and mobile clients). We'll walk through the development of an application data model and schema for a sample app including how you can test it in a platform-independent way. We will then show how to package the UI for the app to run in multiple platform environments.",
+    "id" : 101,
+    "speakers" : [ 6 ],
+    "tags" : [ "firebase", "web", "server", "mobile" ],
+    "title" : "Cross-platform App Development with Firebase"
+  },
+  "102" : {
+    "description" : "You've written an application and now the worst thing that can happen to you has come about - People are using it! You now have load spikes to deal with. You can scale up to deal with the excess traffic, but what do you do when your load is variable? How do you do that, and stay on budget? This session is a case study on getting an App Engine app to scale to serve 30,000,000 requests an hour. It will take you through the architecture, the code changes and the technology trade offs to get to that level of traffic.",
+    "id" : 102,
+    "speakers" : [ 4 ],
+    "tags" : [ "app-engine", "cloud" ],
+    "title" : "Serving 30,000,000 Requests an Hour in the Cloud"
+  },
+  "103" : {
+    "description" : "Machine Learning / TensorFlow talk",
+    "id" : 103,
+    "speakers" : [ 7 ],
+    "tags" : [ "machine-learning", "cloud" ],
+    "title" : "Machine Learning / TensorFlow"
+  },
+  "104" : {
+    "description" : "- Bringing VR to the web with WebVR, by Alexis Menard, Software Engineer @Intel - Intro to ML with Tensorflow, by Josh Gordon, Google.",
+    "id" : 104,
+    "speakers" : [ 2, 4, 6, 8 ],
+    "tags" : [ "VR" ],
+    "title" : "Let's here from experts about VR, ML, Tensor Flow and Analytics"
+  },
+  "105" : {
+    "description" : "Code Labs (concurrent) - ML, GCP, Flutter and Actions on Google, more details from Code Lab leaders",
+    "id" : 105,
+    "image" : "images/backgrounds/gray_bkgd.jpg",
+    "tags" : [ "ML,GCP, Flutter, Actions" ],
+    "title" : "Code Labs for all"
+  },
+  "106" : {
+    "description" : "Make sure you won't miss closing demos, all swags from our sponsors and partners will find their owners during this session.",
+    "id" : 106,
+    "image" : "images/backgrounds/home.jpg",
+    "tags" : [ "Demos", "GCP", "ML", "Flutter" ],
+    "title" : "Show & tell / demo (5 min each)"
+  },
+  "108" : {
+    "description" : "Code Labs (concurrent)",
+    "id" : 108,
+    "tags" : [ "codelabs", "android", "cloud", "firebase" ],
+    "title" : "Code Labs (concurrent)"
+  },
+  "1001" : {
+    "description" : "Get your badge, coffee, and then enjoy talking with great people",
+    "id" : 1001,
+    "image" : "images/backgrounds/gray_bkgd.jpg",
+    "tags" : [ "general" ],
+    "title" : "Check-in & morning Coffee"
+  },
+  "1002" : {
+    "description" : "Lunch break",
+    "id" : 1002,
+    "image" : "images/backgrounds/gray_bkgd.jpg",
+    "tags" : [ "general" ],
+    "title" : "Lunch"
+  },
+  "1003" : {
+    "description" : "Coffee break",
+    "id" : 1003,
+    "tags" : [ "general" ],
+    "title" : "Coffee break"
+  },
+  "1004" : {
+    "description" : "Keynote: How to build your own app for Google Home by Martin Omander - 5 ways to run on Google Cloud Platform, by Vikram Tiwari, Google Developer Expert (GDE) for GCP - Flutter, by Wm Leler, Sr. Software Engineer @Google - Actions on Google and Android Things",
+    "id" : 1004,
+    "speakers" : [ 5, 3, 1 ],
+    "tags" : [ "keynote", "cloud" ],
+    "title" : "DevFest Keynote plus talks by Googler and Google Developer Expert"
+  },
+  "1007" : {
+    "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+    "id" : 1007,
+    "image" : "images/backgrounds/gray_bkgd.jpg",
+    "tags" : [ "general" ],
+    "title" : "Conference closing and contest winners announcements"
+  }
+}

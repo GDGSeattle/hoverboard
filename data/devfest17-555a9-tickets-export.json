@@ -1,0 +1,27 @@
+{
+  "elements" : [ {
+    "currency" : "$",
+    "ends" : "Oct 6",
+    "info" : "Requires valid student ID",
+    "name" : "Student",
+    "price" : 19,
+    "soldOut" : true,
+    "starts" : "Sep 12"
+  }, {
+    "currency" : "$",
+    "ends" : "Sep 24",
+    "info" : "",
+    "name" : "Early Bird",
+    "price" : 30,
+    "soldOut" : true,
+    "starts" : "Sep 12"
+  }, {
+    "currency" : "$",
+    "ends" : "Oct 6",
+    "name" : "General",
+    "price" : 38,
+    "soldOut" : true,
+    "starts" : "Sep 12"
+  } ],
+  "url" : "https://www.eventbrite.com/e/gdg-devfest-seattle-2017-tickets-37585313685"
+}

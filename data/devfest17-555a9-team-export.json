@@ -1,0 +1,94 @@
+[ {
+  "members" : [ {
+    "name" : "Margaret Maynard-Reid",
+    "photoUrl" : "/images/people/margaret_maynardreid.jpg",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+MargaretMaynardReid",
+      "name" : "Google+"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/margaretmz",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "http://margaretmz.github.io/",
+      "name" : "Blog"
+    } ],
+    "title" : "Lead DevFest Organizer"
+  }, {
+    "name" : "Clive Boulton",
+    "photoUrl" : "/images/people/clive_boulton.jpg",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+CliveBoulton",
+      "name" : "Google+"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/iC",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "http://clive.tries.fed.wiki/view/welcome-visitors/",
+      "name" : "Blog"
+    } ],
+    "title" : "Organizer and Website"
+  }, {
+    "name" : "Yenchi Lin",
+    "photoUrl" : "/images/people/yenchi_lin.jpg",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+YenchiLin",
+      "name" : "Google+"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/xCatG",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "http://catg.kghs.net/",
+      "name" : "Blog"
+    } ],
+    "title" : "Organizer and Operations"
+  }, {
+    "name" : "Brandon Donnelson",
+    "photoUrl" : "/images/people/brandon_donnelson.jpg",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+BrandonDonnelson",
+      "name" : "Google+"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/branflake2267",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "http://wrightwayeconomy.com",
+      "name" : "Blog"
+    } ],
+    "title" : "Organizer and Operations"
+  }, {
+    "name" : "Balaji Babu",
+    "photoUrl" : "/images/people/balaji_babu.jpg",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/117670601284712693018",
+      "name" : "Google+"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/balaji-babu-thappalli-rameshbabu-68a67710",
+      "name" : "LinkedIn"
+    } ],
+    "title" : "Coach"
+  }, {
+    "name" : "Michael Erdely",
+    "photoUrl" : "/images/people/michael1.jpg",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/mjerdely",
+      "name" : "Twitter"
+    } ],
+    "title" : "OfferUp and Coach"
+  } ],
+  "title" : "DevFest Seattle Organizers & Coaches"
+} ]

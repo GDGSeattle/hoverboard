@@ -1,0 +1,28 @@
+[ null, {
+  "logos" : [ {
+    "logoUrl" : "../images/logos/google.svg",
+    "name" : "Google",
+    "url" : "https://www.google.com.ua/intl/en/about/"
+  }, {
+    "logoUrl" : "../images/logos/gdg-x.svg",
+    "name" : "GDG[x]",
+    "url" : "https://github.com/gdg-x"
+  }, {
+    "logoUrl" : "../images/logos/gdg-seattle.svg",
+    "name" : "GDG Seattle",
+    "url" : "https://developers.google.com/groups/chapter/104304419342230315027/"
+  }, {
+    "logoUrl" : "../images/logos/general-ui.jpg",
+    "name" : "General UI",
+    "url" : "https://generalui.com/"
+  }, {
+    "logoUrl" : "../images/logos/seascale.svg",
+    "name" : "SeaScale",
+    "url" : "https://www.meetup.com/Seattle-Scalability-Meetup/"
+  }, {
+    "logoUrl" : "../images/logos/women-who-code.jpg",
+    "name" : "Women Who Code",
+    "url" : "https://www.womenwhocode.com/"
+  } ],
+  "title" : ""
+} ]

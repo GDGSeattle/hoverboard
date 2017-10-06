@@ -1,0 +1,217 @@
+[ null, {
+  "badges" : [ {
+    "description" : "Google Developer Expert",
+    "link" : "https://developers.google.com/experts/people/vikram-tiwari",
+    "name" : "GDE"
+  }, {
+    "description" : "Google Cloud",
+    "link" : "https://cloud.google.com/",
+    "name" : "GCP"
+  } ],
+  "bio" : "Vikram Tiwari, Google Developer Expert (GDE) for GCP. Vikram, A GDE for GCP will go over the 5 ways to run on Google Cloud Platform: - Google Storage - App Engine Standard and Flex - Compute Engine - Google Kubernetes Engine - Functions",
+  "company" : "Google Developer Expert",
+  "companyLogo" : "/images/logos/gde.jpg",
+  "country" : "British Columbia, Canada",
+  "featured" : true,
+  "id" : 1,
+  "name" : "Vikram Tiwari",
+  "photoUrl" : "/images/people/vikram_tiwari.jpg",
+  "shortBio" : "Vikram Tiwari, Google Developer Expert (GDE) for GCP",
+  "socials" : [ null, {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/Vikram_Tiwari/",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/VikramTiwari/",
+    "name" : "GitHub"
+  } ],
+  "tags" : [ "Cloud", "Compute Engine", "GRE", "Cloud Storage", "Cloud Functions" ],
+  "title" : "Google Developer Expert"
+}, {
+  "badges" : [ {
+    "description" : "Chromium",
+    "link" : "https://www.chromium.org/Home",
+    "name" : "Chromium"
+  }, {
+    "description" : "Virtual Reality",
+    "link" : "https://vr.google.com/",
+    "name" : "VR"
+  } ],
+  "bio" : "Alexis Menard, Software Engineer @Intel. Virtual Reality are gaining momentum amongst consumers, especially with the release of cheaper VR and AR entertainment solutions. Intel is seeing the three technologies as an important growth area for the CCG business as well as in the cloud where the content is stored (see the various initiatives around sports and olympics).  One of the main challenges for VR these days is content delivery which requires giant downloads and complicated app store installation steps, and often involves proprietary stacks which lock users to a particular vendor. Leading VR companies have spent significant resources to create content yet it didn’t proliferate because it was cumbersome for developers to go to market: multiple vendors, multiple SDKs and the need for extensive skillsets.  WebVR is a way to address this challenge. It leverages the power of the web platform -- low friction, discoverability, indexing and an open and easy development environment -- to help deliver rich and entertaining portable experiences. The web doesn’t pose gatekeepers -- you can deploy or instantly update a virtual or augmented reality experience on your website.  WebVR allows developers to easily create virtual experiences that can be seamlessly deployed across different operating systems and browsers without compromising capabilities. In this presentation, we’ll introduce WebVR, its scope and then show how you can create a VR experience quickly using the web platform.",
+  "company" : "Intel",
+  "companyLogo" : "/images/logos/intel.jpg",
+  "country" : "United States",
+  "featured" : true,
+  "id" : 2,
+  "name" : "Alexis Menard",
+  "photoUrl" : "/images/people/alexis_menard.jpg",
+  "shortBio" : "Alexis Menard, Software Engineer @Intel",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/darktears/",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/darktears/",
+    "name" : "GitHub"
+  } ],
+  "tags" : [ "Virtual Reality", "WebVR", "AR/VR" ],
+  "title" : "Software Engineer"
+}, {
+  "badges" : [ {
+    "description" : "Googler",
+    "link" : "https://careers.google.com/how-we-care-for-googlers/",
+    "name" : "Googler"
+  }, {
+    "description" : "Flutter",
+    "link" : "https://flutter.io",
+    "name" : "Flutter"
+  } ],
+  "bio" : "Wm Leler, Sr. Software Engineer @Google.Google Senior Software Engineer and Developer Advocate for Flutter. Before Flutter, Wm worked on distributed user interfaces, mapping, and travel. Before Google, Wm started several successful computer companies. He wrote a seminal book on declarative computer languages and another book on 3D computer graphics. Wm has given talks at hundreds of events around the world",
+  "company" : "Google",
+  "companyLogo" : "/images/logos/google.svg",
+  "country" : "United States",
+  "featured" : true,
+  "id" : 3,
+  "name" : "Wm Leler",
+  "photoUrl" : "/images/people/wm_leler.jpg",
+  "shortBio" : "Wm Leler, Sr. Software Engineer @Google",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/wmleler",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/wmleler",
+    "name" : "GitHub"
+  } ],
+  "tags" : [ "Flutter", "Android", "iOS" ],
+  "title" : "Senior Software Engineer and Developer Advocate"
+}, {
+  "badges" : [ {
+    "description" : "Googler",
+    "link" : "https://www.tensorflow.org",
+    "name" : "Googler"
+  } ],
+  "bio" : "Josh Gordon is a Developer Advocate at Google working on TensorFlow. He’s interested in teaching and computer science education. He can often be found exploring central park on his bike.",
+  "company" : "Google",
+  "companyLogo" : "/images/logos/google.svg",
+  "country" : "New York, United States",
+  "featured" : true,
+  "id" : 4,
+  "name" : "Josh Gordon",
+  "photoUrl" : "/images/people/josh_gordon.jpg",
+  "shortBio" : "Josh Gordon is a Developer Advocate at Google",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/random_forests",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/random-forests",
+    "name" : "GitHub"
+  } ],
+  "tags" : [ "Tensor Flow", "ML", "AI" ],
+  "title" : "Developer Programs Engineer"
+}, {
+  "badges" : [ {
+    "description" : "Google Developer Relations",
+    "link" : "https://developers.google.com/groups/directory/",
+    "name" : "DevRel"
+  } ],
+  "bio" : "Martin Omander works for Google in Mountain View, California. His job in the Developer Relations team is to support awesome developer communities, like the Google Developer Groups. On his spare time he manages to sneak in some programming, usually writing HTML5 apps running on top of Firebase. Before Google, Martin worked at string of startups in Silicon Valley as a software engineer.",
+  "company" : "Google",
+  "companyLogo" : "/images/logos/google.svg",
+  "country" : "United States",
+  "featured" : true,
+  "id" : 5,
+  "name" : "Martin Omander",
+  "photoUrl" : "/images/people/martin_omander.jpg",
+  "shortBio" : "Martin Omander, Software Engineer and DevRel @Google",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/martinomander",
+    "name" : "Twitter"
+  } ],
+  "tags" : [ "DevRel", "Web", "Cloud", "Communities" ],
+  "title" : "Software Engineer and Google Developer Relations"
+}, {
+  "badges" : [ {
+    "description" : "GDG Lead + WTM Seattle",
+    "link" : "https://developers.google.com/groups/chapter/104304419342230315027/",
+    "name" : "GDG + WTM"
+  } ],
+  "bio" : "Margaret Maynard­-Reid is an Android Developer currently building apps that showcase how we can leverage machine learning. She has taught as an instructor at the University of Washington Android Application Development Certificate Program. For the past few years she developed Android Apps for startups and published her own. She is an organizer and the Women Techmakers lead of GDG (Google Developer Group) Seattle. She is deeply engaged with the Android community: writing blogs, speaking at conferences, organizing meetups, DevFests and Android Study Jams. Prior to her developer career, she led large scale programs at Microsoft, HP and P&G.\"",
+  "company" : "Google",
+  "companyLogo" : "/images/logos/gdg-seattle.svg",
+  "country" : "Seattle, United States",
+  "featured" : true,
+  "id" : 6,
+  "name" : "Margaret Maynard­-Reid",
+  "photoUrl" : "/images/people/margaret_maynardreid.jpg",
+  "shortBio" : "Margaret MZ, GDG Organizer",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/margaretmz",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/margaretmz",
+    "name" : "GitHub"
+  } ],
+  "tags" : [ "Android, Tensor Flow", "ML" ],
+  "title" : "Google Developer Groups Lead Organizer and WTM Lead"
+}, {
+  "badges" : [ {
+    "description" : "GDG",
+    "link" : "https://developers.google.com/groups/chapter/104304419342230315027/",
+    "name" : "GDG"
+  } ],
+  "bio" : "Brandon Donnelson is a Java software engineer focused also focused on emerging Java technologies.",
+  "company" : "Google",
+  "companyLogo" : "/images/logos/gdg-seattle.svg",
+  "country" : "Seattle, United States",
+  "featured" : false,
+  "id" : 7,
+  "name" : "Brandon Donnelson",
+  "photoUrl" : "/images/people/brandon_donnelson.jpg",
+  "shortBio" : "Brandon Donnelson, GDG Organizer",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/branflake2267",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/branflake2267",
+    "name" : "GitHub"
+  } ],
+  "tags" : [ "Java", "Flutter" ],
+  "title" : "Sencha GXT Support Engineer"
+}, {
+  "badges" : [ {
+    "description" : "UW",
+    "link" : "https://www.cs.washington.edu/research/",
+    "name" : "UW CSE"
+  } ],
+  "bio" : "Aftab Hassan, a recent graduate from the University of Washington, and currently a Software Engineer in Analytics at GE. During my work as a grad student, and Research Assistant at the University of Washington, I broadened my knowledge in Machine Learning, and came to appreciate the value of data in today's times. My thesis in the field of Machine Learning in Healthcare is an effort in creating an intelligent framework that understands the hierarchical structure of patient data, and recommends medications that are ideal for a patient discharge experience. I am also passionate about Tennis, and my talk, as I explain in a section below, tries to take my learnings from Healthcare Analytics, and see how it could be applied to analyzing Tennis data.",
+  "company" : "Google",
+  "companyLogo" : "/images/logos/general_electric.jpg",
+  "country" : "Seattle, United States",
+  "featured" : false,
+  "id" : 8,
+  "name" : "Aftab Hassan",
+  "photoUrl" : "/images/people/aftab_hassan.jpg",
+  "shortBio" : "Aftab Hassan, recent UW CSE graduate and GE Software Engineer",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/aftabtrending",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/",
+    "name" : "GitHub"
+  } ],
+  "tags" : [ "Analytics", "Machine Learning" ],
+  "title" : "Software Engineer in Analytics at GE"
+} ]

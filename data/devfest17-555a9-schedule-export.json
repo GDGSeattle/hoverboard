@@ -1,0 +1,36 @@
+[ {
+  "date" : "2017-10-07",
+  "dateReadable" : "October 7",
+  "timeslots" : [ {
+    "endTime" : "10:00",
+    "sessions" : [ [ 1001 ] ],
+    "startTime" : "09:15"
+  }, {
+    "endTime" : "12:00",
+    "sessions" : [ [ 1004 ] ],
+    "startTime" : "10:00"
+  }, {
+    "endTime" : "12:30",
+    "sessions" : [ [ 1002 ] ],
+    "startTime" : "12:00"
+  }, {
+    "endTime" : "14:30",
+    "sessions" : [ [ 104 ] ],
+    "startTime" : "12:30"
+  }, {
+    "endTime" : "15:30",
+    "sessions" : [ [ 105 ] ],
+    "startTime" : "14:30"
+  }, {
+    "endTime" : "16:30",
+    "sessions" : [ [ 106 ] ],
+    "startTime" : "15:30"
+  } ],
+  "tracks" : [ {
+    "title" : "Center of the Universe"
+  }, {
+    "title" : "Codelabs Room"
+  }, {
+    "title" : "Hackers Room"
+  } ]
+} ]
