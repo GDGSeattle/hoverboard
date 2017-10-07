@@ -16,5 +16,14 @@
     "secondaryColor": "#00BCD4",
     "image": "/images/posts/announce.jpg",
     "brief": "Don’t miss this great opportunity to learn from experts, and network with the other developers! Swags and prizes will be given out throughout the event. You will have a chance to win one of the gadets and Android Things developer kits: Google Home Google AIY Projects Voice Kit Raspberry Pi 3 Model B Starter Pack (including Raspberry Pi 3) PICO-PI-IMX7-STARTKIT-RAINBOW-HAT."
+  },
+  {
+    "id": "devfest-2017-survey",
+    "title": "GDG DevFest 2017 Survey",
+    "posted": "2017-10-07",
+    "primaryColor": "#00BCD4",
+    "secondaryColor": "#00BCD4",
+    "image": "/images/posts/announce.jpg",
+    "brief": "Help us get DevFest feedback. Please take our survey goo.gl/3VoUK9 If possible, please complete this survey at end of event."
   }
 ]
