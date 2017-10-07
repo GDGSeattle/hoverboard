@@ -6,17 +6,37 @@
     "sessions" : [ [ 1001 ] ],
     "startTime" : "09:15"
   }, {
-    "endTime" : "12:00",
+    "endTime" : "10:40",
     "sessions" : [ [ 1004 ] ],
     "startTime" : "10:00"
+  }, {
+    "endTime" : "11:20",
+    "sessions" : [ [ 101 ] ],
+    "startTime" : "10:40"
+  }, {
+    "endTime" : "12:00",
+    "sessions" : [ [ 102 ] ],
+    "startTime" : "11:20"
   }, {
     "endTime" : "12:30",
     "sessions" : [ [ 1002 ] ],
     "startTime" : "12:00"
   }, {
-    "endTime" : "14:30",
+    "endTime" : "13:20",
     "sessions" : [ [ 104 ] ],
     "startTime" : "12:30"
+  }, {
+    "endTime" : "14:00",
+    "sessions" : [ [ 108 ] ],
+    "startTime" : "13:20"
+  }, {
+    "endTime" : "14:15",
+    "sessions" : [ [ 103 ] ],
+    "startTime" : "14:00"
+  }, {
+    "endTime" : "14:30",
+    "sessions" : [ [ 109 ] ],
+    "startTime" : "14:15"
   }, {
     "endTime" : "15:30",
     "sessions" : [ [ 105 ] ],

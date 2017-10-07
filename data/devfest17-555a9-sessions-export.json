@@ -1,31 +1,31 @@
 {
   "101" : {
-    "description" : "The Firebase JavaScript SDK can be used for more than just web apps, since it supports running in Node.js, ReactNative, and Cordova. In this talk, you'll learn how to design and structure a Firebase application that can be re-purposed to multiple platforms (web, server, and mobile clients). We'll walk through the development of an application data model and schema for a sample app including how you can test it in a platform-independent way. We will then show how to package the UI for the app to run in multiple platform environments.",
+    "description" : "- 5 ways to run on Google Cloud Platform, by Vikram Tiwari, Google Developer Expert (GDE) for GCP",
     "id" : 101,
-    "speakers" : [ 6 ],
-    "tags" : [ "firebase", "web", "server", "mobile" ],
-    "title" : "Cross-platform App Development with Firebase"
+    "speakers" : [ 1 ],
+    "tags" : [ "cloud", "GCP" ],
+    "title" : "5 ways to run on Google Cloud Platform"
   },
   "102" : {
-    "description" : "You've written an application and now the worst thing that can happen to you has come about - People are using it! You now have load spikes to deal with. You can scale up to deal with the excess traffic, but what do you do when your load is variable? How do you do that, and stay on budget? This session is a case study on getting an App Engine app to scale to serve 30,000,000 requests an hour. It will take you through the architecture, the code changes and the technology trade offs to get to that level of traffic.",
+    "description" : "Flutter, by Wm Leler, Sr. Software Engineer @Google - Actions on Google and Android Things",
     "id" : 102,
-    "speakers" : [ 4 ],
-    "tags" : [ "app-engine", "cloud" ],
-    "title" : "Serving 30,000,000 Requests an Hour in the Cloud"
+    "speakers" : [ 3 ],
+    "tags" : [ "android", "mobile", "iOS" ],
+    "title" : "Flutter, by Wm Leler, Sr. Software Engineer"
   },
   "103" : {
-    "description" : "Machine Learning / TensorFlow talk",
+    "description" : "TensorFlow talk on Android, by Margaret Maynard­-Reid ",
     "id" : 103,
-    "speakers" : [ 7 ],
-    "tags" : [ "machine-learning", "cloud" ],
-    "title" : "Machine Learning / TensorFlow"
+    "speakers" : [ 6 ],
+    "tags" : [ "machine-learning", "android" ],
+    "title" : " Tensor Flow talk on Andriod "
   },
   "104" : {
-    "description" : "- Bringing VR to the web with WebVR, by Alexis Menard, Software Engineer @Intel - Intro to ML with Tensorflow, by Josh Gordon, Google.",
+    "description" : "Bringing VR to the web with WebVR, by Alexis Menard, Software Engineer @Intel",
     "id" : 104,
-    "speakers" : [ 2, 4, 6, 8 ],
+    "speakers" : [ 2 ],
     "tags" : [ "VR" ],
-    "title" : "Let's here from experts about VR, ML, Tensor Flow and Analytics"
+    "title" : "Bringing VR to the web with WebVR"
   },
   "105" : {
     "description" : "Code Labs (concurrent) - ML, GCP, Flutter and Actions on Google, more details from Code Lab leaders",
@@ -42,10 +42,18 @@
     "title" : "Show & tell / demo (5 min each)"
   },
   "108" : {
-    "description" : "Code Labs (concurrent)",
+    "description" : "Intro to ML with Tensorflow, by Josh Gordon, Google",
     "id" : 108,
-    "tags" : [ "codelabs", "android", "cloud", "firebase" ],
-    "title" : "Code Labs (concurrent)"
+    "speakers" : [ 4 ],
+    "tags" : [ "machine-learning", "tensorflow" ],
+    "title" : "Intro to ML with Tensorflow"
+  },
+  "109" : {
+    "description" : "Demo of a ML Project: Analytics in the field of Tennis, by Aftab Hassan, recnet graduate from UW & Software Enginneer in Analytics @GE",
+    "id" : 109,
+    "speakers" : [ 8 ],
+    "tags" : [ "machine-learning", "analytics" ],
+    "title" : "Demo of a ML Project: Analytics in the field of Tennis"
   },
   "1001" : {
     "description" : "Get your badge, coffee, and then enjoy talking with great people",
@@ -61,18 +69,12 @@
     "tags" : [ "general" ],
     "title" : "Lunch"
   },
-  "1003" : {
-    "description" : "Coffee break",
-    "id" : 1003,
-    "tags" : [ "general" ],
-    "title" : "Coffee break"
-  },
   "1004" : {
-    "description" : "Keynote: How to build your own app for Google Home by Martin Omander - 5 ways to run on Google Cloud Platform, by Vikram Tiwari, Google Developer Expert (GDE) for GCP - Flutter, by Wm Leler, Sr. Software Engineer @Google - Actions on Google and Android Things",
+    "description" : "Keynote: How to build your own app for Google Home by Martin Omander",
     "id" : 1004,
-    "speakers" : [ 5, 3, 1 ],
-    "tags" : [ "keynote", "cloud" ],
-    "title" : "DevFest Keynote plus talks by Googler and Google Developer Expert"
+    "speakers" : [ 5 ],
+    "tags" : [ "keynote", "home" ],
+    "title" : "DevFest Keynote How to build your own app for Google Home"
   },
   "1007" : {
     "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
