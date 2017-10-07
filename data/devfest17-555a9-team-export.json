@@ -66,7 +66,7 @@
       "link" : "http://wrightwayeconomy.com",
       "name" : "Blog"
     } ],
-    "title" : "Organizer and Operations"
+    "title" : "Organizer and Coach"
   }, {
     "name" : "Balaji Babu",
     "photoUrl" : "/images/people/balaji_babu.jpg",
@@ -79,7 +79,7 @@
       "link" : "https://www.linkedin.com/in/balaji-babu-thappalli-rameshbabu-68a67710",
       "name" : "LinkedIn"
     } ],
-    "title" : "Coach"
+    "title" : "Coach and Volunteer"
   }, {
     "name" : "Michael Erdely",
     "photoUrl" : "/images/people/michael1.jpg",
@@ -88,7 +88,25 @@
       "link" : "https://twitter.com/mjerdely",
       "name" : "Twitter"
     } ],
-    "title" : "OfferUp and Coach"
+    "title" : "OfferUp and Volunteer"
+  }, {
+    "name" : "Gus Class",
+    "photoUrl" : "/images/people/gus_class.jpg",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/gguuss",
+      "name" : "Twitter"
+    } ],
+    "title" : "OfferUp and Volunteer"
+  }, {
+    "name" : "Peter Oh",
+    "photoUrl" : "/images/people/volunteer.jpg",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/peter-oh-617179ab",
+      "name" : "LinkedIn"
+    } ],
+    "title" : "OfferUp and Volunteer"
   } ],
   "title" : "DevFest Seattle Organizers & Coaches"
 } ]

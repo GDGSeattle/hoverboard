@@ -39,7 +39,7 @@
     "startTime" : "14:15"
   }, {
     "endTime" : "15:30",
-    "sessions" : [ [ 105 ] ],
+    "sessions" : [ [ 115 ], [ 116 ], [ 117 ] ],
     "startTime" : "14:30"
   }, {
     "endTime" : "16:30",
@@ -49,8 +49,8 @@
   "tracks" : [ {
     "title" : "Center of the Universe"
   }, {
-    "title" : "Codelabs Room"
+    "title" : "Andriod / iOS"
   }, {
-    "title" : "Hackers Room"
+    "title" : "Cloud"
   } ]
 } ]
