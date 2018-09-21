@@ -122,16 +122,16 @@
     "title" : "General Partner"
   } ],
   "schedule" : {
-    "2016-09-09" : {
-      "dateReadable" : "September 9",
+    "2018-11-03" : {
+      "dateReadable" : "November 3",
       "timeslots" : [ {
         "endTime" : "10:00",
         "sessions" : [ {
           "items" : [ 132 ]
         } ],
-        "startTime" : "09:00"
+        "startTime" : "09:15"
       }, {
-        "endTime" : "10:15",
+        "endTime" : "10:30",
         "sessions" : [ {
           "items" : [ 136 ]
         } ],
@@ -141,186 +141,67 @@
         "sessions" : [ {
           "items" : [ 139 ]
         } ],
-        "startTime" : "10:15"
+        "startTime" : "10:30"
       }, {
-        "endTime" : "11:40",
+        "endTime" : "11:30",
         "sessions" : [ {
-          "items" : [ 103, 112 ]
-        }, {
-          "items" : [ 120 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 109 ]
+          "items" : [ 112 ]
         } ],
         "startTime" : "11:00"
       }, {
-        "endTime" : "12:30",
+        "endTime" : "12:00",
         "sessions" : [ {
           "items" : [ 129 ]
-        }, {
-          "items" : [ 116 ]
         } ],
-        "startTime" : "11:50"
+        "startTime" : "11:30"
       }, {
-        "endTime" : "14:00",
+        "endTime" : "13:00",
+        "sessions" : [ {
+          "items" : [ 101 ]
+        } ],
+        "startTime" : "12:00"
+      }, {
+        "endTime" : "12:05",
         "sessions" : [ {
           "items" : [ 133 ]
         } ],
-        "startTime" : "12:30"
+        "startTime" : "12:00"
       }, {
-        "endTime" : "14:40",
+        "endTime" : "13:15",
         "sessions" : [ {
-          "items" : [ 101 ]
-        }, {
-          "items" : [ 118 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 107 ]
+          "items" : [ 126 ]
+        } ],
+        "startTime" : "13:00"
+      }, {
+        "endTime" : "13:30",
+        "sessions" : [ {
+          "items" : [ 134 ]
+        } ],
+        "startTime" : "13:15"
+      }, {
+        "endTime" : "14:00",
+        "sessions" : [ {
+          "items" : [ 105 ]
+        } ],
+        "startTime" : "13:30"
+      }, {
+        "endTime" : "14:30",
+        "sessions" : [ {
+          "items" : [ 112 ]
         } ],
         "startTime" : "14:00"
       }, {
         "endTime" : "15:30",
         "sessions" : [ {
-          "items" : [ 140 ]
-        }, {
-          "items" : [ 126 ]
+          "items" : [ 106 ]
         } ],
-        "startTime" : "14:50"
+        "startTime" : "14:30"
       }, {
         "endTime" : "16:00",
-        "sessions" : [ {
-          "items" : [ 134 ]
-        } ],
-        "startTime" : "15:30"
-      }, {
-        "endTime" : "16:40",
-        "sessions" : [ {
-          "items" : [ 105 ]
-        }, {
-          "items" : [ 127 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 119 ]
-        } ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
-        "sessions" : [ {
-          "items" : [ 112 ]
-        }, {
-          "items" : [ 111 ]
-        } ],
-        "startTime" : "16:50"
-      }, {
-        "endTime" : "18:20",
-        "sessions" : [ {
-          "items" : [ 106 ]
-        }, {
-          "items" : [ 125 ]
-        } ],
-        "startTime" : "17:40"
-      }, {
-        "endTime" : "22:30",
         "sessions" : [ {
           "items" : [ 137 ]
         } ],
-        "startTime" : "18:30"
-      } ],
-      "tracks" : [ {
-        "title" : "Expo hall"
-      }, {
-        "title" : "Conference hall"
-      }, {
-        "title" : "Workshops hall"
-      } ]
-    },
-    "2016-09-10" : {
-      "dateReadable" : "September 10",
-      "timeslots" : [ {
-        "endTime" : "10:10",
-        "sessions" : [ {
-          "items" : [ 135 ]
-        } ],
-        "startTime" : "09:30"
-      }, {
-        "endTime" : "10:50",
-        "sessions" : [ {
-          "items" : [ 114 ]
-        }, {
-          "items" : [ 117 ]
-        }, {
-          "items" : [ 121 ]
-        } ],
-        "startTime" : "10:10"
-      }, {
-        "endTime" : "11:40",
-        "sessions" : [ {
-          "items" : [ 122 ]
-        }, {
-          "items" : [ 113 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 121 ]
-        } ],
-        "startTime" : "11:00"
-      }, {
-        "endTime" : "12:30",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 124 ]
-        } ],
-        "startTime" : "11:50"
-      }, {
-        "endTime" : "14:00",
-        "sessions" : [ {
-          "items" : [ 133 ]
-        } ],
-        "startTime" : "12:30"
-      }, {
-        "endTime" : "14:40",
-        "sessions" : [ {
-          "items" : [ 108 ]
-        }, {
-          "items" : [ 128 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 102 ]
-        } ],
-        "startTime" : "14:00"
-      }, {
-        "endTime" : "15:30",
-        "sessions" : [ {
-          "items" : [ 110 ]
-        }, {
-          "items" : [ 123 ]
-        } ],
-        "startTime" : "14:50"
-      }, {
-        "endTime" : "16:00",
-        "sessions" : [ {
-          "items" : [ 134 ]
-        } ],
         "startTime" : "15:30"
-      }, {
-        "endTime" : "16:40",
-        "sessions" : [ {
-          "items" : [ 131 ]
-        }, {
-          "items" : [ 140 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 130 ]
-        } ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
-        "sessions" : [ {
-          "items" : [ 115 ]
-        }, {
-          "items" : [ 140 ]
-        } ],
-        "startTime" : "16:50"
       } ],
       "tracks" : [ {
         "title" : "Expo hall"
@@ -333,13 +214,10 @@
   },
   "sessions" : {
     "101" : {
-      "complexity" : "Beginner",
-      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers" : [ "mete_atamel", "adrian_kajda" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Windows and .NET on Google Cloud Platform "
+      "description" : "Nom nom noms",
+      "icon" : "lunch",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+      "title" : "Lunch"
     },
     "102" : {
       "complexity" : "Beginner",
@@ -369,24 +247,13 @@
       "videoId" : "fLfQNp75kbc"
     },
     "105" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
-      "speakers" : [ "rustem_arzymbetov" ],
+      "description" : "",
       "tags" : [ "Cloud" ],
-      "title" : "Intro to TensorFlow",
-      "videoId" : "e3cuSz1hEPs"
+      "title" : "Kubeflow End-to-End"
     },
     "106" : {
-      "complexity" : "Beginner",
-      "description" : "Fuelio. Success story (I'll write more info later)",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-      "speakers" : [ "adrian_kajda" ],
-      "tags" : [ "Android" ],
-      "title" : "Fuelio. Success story",
-      "videoId" : "qK7ysoohsaM"
+      "description" : "",
+      "title" : "Codelabs"
     },
     "107" : {
       "complexity" : "Beginner",
@@ -435,12 +302,9 @@
       "title" : "Building modular architecture apps with Dagger 2"
     },
     "112" : {
-      "complexity" : "Intermediate",
-      "description" : "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
-      "language" : "English",
-      "speakers" : [ "konrad_dzwinel" ],
-      "tags" : [ "Web" ],
-      "title" : "Building web apps in 2016"
+      "description" : "What federated learning is/why it is important. Gives context into the evolution of on device learning",
+      "tags" : [ "Machine Learning" ],
+      "title" : "Federated Learning"
     },
     "113" : {
       "complexity" : "Intermediate",
@@ -558,14 +422,9 @@
       "title" : "Kubernetes in a real world"
     },
     "126" : {
-      "complexity" : "Intermediate",
-      "description" : "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
-      "speakers" : [ "ihor_dvoretskyi" ],
-      "tags" : [ "Android" ],
-      "title" : "Android hacking for dummies: ‘if’ operator demolytion",
-      "videoId" : "We04nyIIsA0"
+      "description" : "TBD",
+      "tags" : [ "Web" ],
+      "title" : "A talk on Angular"
     },
     "127" : {
       "complexity" : "Intermediate",
@@ -585,13 +444,9 @@
       "title" : "Android Wear 2.0: Great Changes Upcoming this Fall"
     },
     "129" : {
-      "complexity" : "Intermediate",
-      "description" : "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
-      "speakers" : [ "constantine_mars" ],
-      "tags" : [ "Android" ],
-      "title" : "Accessibility on Android"
+      "description" : "TBD",
+      "tags" : [ "Cloud" ],
+      "title" : "A talk on Kubernetes"
     },
     "130" : {
       "complexity" : "Intermediate",
@@ -614,19 +469,18 @@
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
       "icon" : "registration",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title" : "Registration & morning Coffee"
+      "title" : "Registration and Breakfast"
     },
     "133" : {
-      "description" : "Foooooooood!",
-      "icon" : "lunch",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-      "title" : "Lunch"
+      "description" : "Basic approach of Android things.",
+      "title" : "Android Things (lightning talk)",
+      "tags": [ "Android" ]
     },
     "134" : {
-      "description" : "Coffeeeeeee!",
-      "icon" : "coffee-break",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
-      "title" : "Coffee break"
+      "description" : "",
+      "icon" : "",
+      "title" : "How to Get Started With ML",
+      "tags": [ "Machine Learning"]
     },
     "135" : {
       "description" : "Coffeeeeeee!",
@@ -635,17 +489,13 @@
       "title" : "Morning coffee"
     },
     "136" : {
-      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-      "icon" : "opening",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
-      "language" : "English",
-      "title" : "GDG DevFest Ukraine 2016 Opening"
+      "description" : "TBDs",
+      "title" : "Actions on Google (?)",
+      "tags" : [ "Cloud" ]
     },
     "137" : {
-      "description" : "Afterparty is a great time to have some fun and meet new people",
-      "icon" : "party",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
-      "title" : "Afterparty & Networking"
+      "description" : "",
+      "title" : "Show and Tell"
     },
     "138" : {
       "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
@@ -653,9 +503,9 @@
       "title" : "Conference closing and contest winners announcements"
     },
     "139" : {
-      "description" : "",
-      "language" : "English",
-      "title" : "Keynote"
+      "description" : "TBD",
+      "title" : "A talk on Android",
+      "tags" : [ "Android" ]
     },
     "140" : {
       "description" : "TBD",

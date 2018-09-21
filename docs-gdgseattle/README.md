@@ -41,3 +41,11 @@ Additional deployment notes.
   npm run build:prod
   firebase deploy --project devfest18-e1a40
   ```
+
+
+  ## Editing files for content
+
+  - data/code.md code of conduct
+  - data/faq.md faqs
+  - resources.json and settings.json - some high level json
+  - docs/default-firebase-data.json - the content including the schedule and speaker info
