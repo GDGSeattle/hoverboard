@@ -1,7 +1,9 @@
+[GDG Seattle Code of Conduct](https://www.meetup.com/gdg-seattle/pages/19210302/Code_of_Conduct/)
+
 ### 1. Purpose
 
-A primary goal of [GDG Lviv](http://lviv.gdg.org.ua/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
+A primary goal of [GDG Seattle](https://www.meetup.com/gdg-seattle/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+GDG Seattle prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 We invite all those who participate in Google Developers Group to help us create safe and positive experiences for everyone.
@@ -40,6 +42,7 @@ The following actions are considered harassment and are unacceptable within our 
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
+
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event.
 
 ### 6. Scope
@@ -48,5 +51,6 @@ We expect all community participants to abide by this Code of Conduct in all com
 
 ### 7. Contact info
 
-- Oleh Zasadnyy, +38 093 486 64 60, [o.zasadnyy@gdg.org.ua](mailto:o.zasadnyy@gdg.org.ua)
-- Sofiya Huts, +38 093 486 14 25, [s.huts@gdg.org.ua](mailto:s.huts@gdg.org.ua)
+- Margaret Maynard-Reid, [margaretmz@gmail.com](mailto:margaretmz+gdgseattle@gmail.com)
+- Clive Boulton, [clive.boulton@gmail.com](mailto:clive.boulton+gdgseattle@gmail.com)
+- Craig Nishina, [cnishina@google.com](mailto:cnishina+gdgseattle@google.com)
