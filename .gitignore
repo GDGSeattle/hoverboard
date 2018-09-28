@@ -8,6 +8,6 @@ functions/lib/
 .vscode/
 .firebaserc
 /appengine/dist/
-serviceAccount.json
+serviceAccount*
 .firebase/
 npm-debug.log
