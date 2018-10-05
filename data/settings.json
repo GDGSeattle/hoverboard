@@ -1,12 +1,11 @@
 {
   "organizer": {
     "name": "GDG Seattle",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "twitter": "gdgseattle",
+    "url": "http://devfestseattle.org/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2018-11-03T09:00:00-07:00",
+  "endDate": "2018-11-03T05:00:00-07:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
@@ -116,17 +115,17 @@
     "name": "Google Kirkland",
     "city": "Kirkland",
     "short": "Kirkland, Washington",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "address": "Google Kirkland, Building D, 747 6th St South, Kirkland, WA 98033",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 47.6695636,
+      "longitude": -122.1988694,
+      "zoom": 12
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 47.6697643,
+      "longitude": -122.1979251
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "We are meeting in Building D on the first floor at Google Kirkland."
   },
   "mediaQueries": {
     "xs": {
