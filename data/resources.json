@@ -114,32 +114,25 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-      },
-      "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "Come join our largest community driven annual event: DevFest Seattle 2018! There will be tech talks and code labs on Android, Angular, Actions on Google, Machine Learning and TensorFlow. We will start with tech talks by community experts, Google Developer Experts (GDEs) and Googlers, and then transition to codelab sessions. At the end of the DevFest there will be show/tell of what the attendees have learned during the event. Swags and prizes will be given out throughout the event. Don’t miss this great opportunity to learn from experts, and network with the GDG community."
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "150"
       },
       "days": {
         "label": "Days",
-        "number": "2"
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "8"
       },
       "tracks": {
-        "label": "Tracks",
-        "number": "4"
+        "label": "Codelabs",
+        "number": "3"
       }
     }
   },
@@ -218,7 +211,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Seattle sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
