@@ -1,5 +1,5 @@
 {
-  "title": "GDG DevFest Kirkland 2018",
+  "title": "DevFest Seattle 2018",
   "description": "#DevFest18 @GDGSeattle",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, angular, developers, web, cloud, androiddev, machinelearning",
@@ -138,7 +138,7 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Limited number of tickets availble, GDG Seattle members who are actively engaged with our community, buy now for sponsored price.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
@@ -178,7 +178,7 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Featured speakers",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
@@ -252,20 +252,20 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
-        "callToAction": {
-          "label": "Open team page",
-          "link": "/team"
-        }
-      },
-      {
         "title": "What is GDG?",
         "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
           "newTab": true
+        }
+      },
+      {
+        "title": "Seattle GDG",
+        "description": "<a href='https://www.meetup.com/gdg-seattle/' target='_blank'>GDG Seattle</a> meets on the 3rd Monday of each month. We are an inclusive and rapidly growing community!",
+        "callToAction": {
+          "label": "Checkout our meetup page",
+          "link": "https://www.meetup.com/gdg-seattle/"
         }
       }
     ]

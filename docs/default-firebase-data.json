@@ -204,11 +204,7 @@
         "startTime" : "15:30"
       } ],
       "tracks" : [ {
-        "title" : "Expo hall"
-      }, {
-        "title" : "Conference hall"
-      }, {
-        "title" : "Workshops hall"
+        "title" : "Okanogan River"
       } ]
     }
   },
@@ -222,13 +218,14 @@
     "102" : {
       "description" : "TBDs",
       "title" : "Actions on Google (?)",
-      "tags" : [ "Cloud" ]
+      "tags" : [ "Cloud" ],
+      "speakers": [ "daniel_myers" ]
     },
     "103" : {
-      "description" : "TBD",
-      "title" : "A talk on Android",
-      "tags" : [ "Android" ],
-      "speakers": [ "kathy_kam" ]
+      "description" : "When you build a backend to a web app or mobile app, you want to focus on your business logic, not on your infrastructure. At the same time, you want the infrastructure to always be there for you, ready to run your code. Google Cloud Functions does that for you. In this talk, we will follow the story of the fictional startup \"In Jest\", publishers of an app that tells jokes. At first, the developers at \"In Jest\" need to get a minimum viable product up and running in an hour. As their business grows they will have to integrate with Google Sheets, SQL databases, analytics systems, marketing systems and so on. We will see the code used to make this happen, without having to worry the team about servers and data centers.",
+      "title" : "Focus on Your Code, Not Your Infrastructure, with Google Cloud Functions",
+      "tags" : [ "Cloud" ],
+      "speakers": [ "martin_omander" ]
     },
     "104" : {
       "description" : "What federated learning is/why it is important. Gives context into the evolution of on device learning",
@@ -239,7 +236,7 @@
     "105" : {
       "description" : "TBD",
       "tags" : [ "Cloud" ],
-      "title" : "A talk on Kubernetes",
+      "title" : "A friendly introduction to gRPC",
       "speakers": [ "ahmet_alp_balkan" ]
     },
     "106" : {
@@ -255,20 +252,19 @@
       "title" : "Lunch"
     },
     "108" : {
-      "description" : "TBD",
+      "description" : "Linus Torvalds is not an easy person to deal with, but he did great things and shared interesting thoughts with the community. Once he said \"Talk is Cheap, Show Me the Code,\" and he was right. Join me in this talk for a code walkthrough to define the architecture of an Angular reactive app that consumes data streams by mixing observables, events, pipes and relying on an immutable state.",
       "tags" : [ "Web" ],
-      "title" : "A talk on Angular",
+      "title" : "Reactive Streams in Angular",
       "speakers": [ "giorgio_natili" ]
     },
     "109" : {
-      "description" : "",
-      "icon" : "",
-      "title" : "How to Get Started With ML",
+      "description" : "We have all heard of how to do image classification, object detection with deep learning. Do you know that we can also use deep learning for more creative tasks such as generating music and art? In this talk we will go over some examples of using generative models to create music and art, and discuss how to use a DCGAN to generate images.",
+      "title" : "Generative Models for Music & Art",
       "tags": [ "Machine Learning"],
       "speakers": [ "margaret_maynard_reid" ]
     },
     "110" : {
-      "description" : "In this session, you will learn how to install and use Kubeflow to create a full machine learning application on Kubernetes. Using a publicly available dataset of GitHub Issues, you will build an automatic summary generator.<br/><br/>Starting with an empty Kubernetes cluster, you will install Kubeflow from scratch, then train a sequence-to-sequence model using Tensorflow. You will then serve your model and interact with the resulting predictions from a web front-end.<br/><br/>You will become familiar with Google Cloud Platform tools such as Cloud Shell, Kubernetes Engine, Cloud Storage, and Container Registry. All components are built from source in the Kubeflow Examples repository and are directly transferable to other environments (local, on-prem, and other cloud providers).",
+      "description" : "In this session, you will learn how to install and use Kubeflow to create a full machine learning application on Kubernetes. Using a publicly available dataset of GitHub Issues, you will build an automatic summary generator. Starting with an empty Kubernetes cluster, you will install Kubeflow from scratch, then train a sequence-to-sequence model using Tensorflow. You will then serve your model and interact with the resulting predictions from a web front-end. You will become familiar with Google Cloud Platform tools such as Cloud Shell, Kubernetes Engine, Cloud Storage, and Container Registry. All components are built from source in the Kubeflow Examples repository and are directly transferable to other environments (local, on-prem, and other cloud providers).",
       "tags" : [ "Cloud" ],
       "title" : "Kubeflow End-to-End",
       "speakers": [ "amy_unruh" ]
@@ -290,25 +286,26 @@
   },
   "speakers" : {
     "ahmet_alp_balkan" : {
-      "bio" : "",
-      "company" : "",
+      "bio" : "Ahmet is a software engineer working on open source infrastructure and operations tools like Kubernetes, Knative and GKE at Google Cloud. He’s passionate about microservices architectures, RPC frameworks and developer tooling.",
+      "company" : "Google",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "name" : "Ahmet Alp Balkan",
       "photo" : "",
-      "photoUrl" : "",
+      "photoUrl" : "https://media.licdn.com/dms/image/C5603AQF2YmOLtpm1Bg/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=zk0pYerOQfMtKNJgwET-cGe2lX7EBaLdYHi_rzLSUjY",
       "shortBio" : "",
       "socials" : [ ],
-      "title" : ""
+      "title" : "Software Engineer"
     },
     "amy_unruh" : {
       "bio" : "Amy Unruh is a developer programs engineer for the Google Cloud Platform, where she focuses on machine learning and data analytics as well as other Cloud Platform technologies. Amy has an academic background in CS/AI and has also worked at several startups, done industrial R&D, and published a book on App Engine.",
       "company" : "Google",
       "companyLogo" : "",
       "companyLogoUrl" : "",
+      "featured" : true,
       "name" : "Amy Unruh",
       "photo" : "",
-      "photoUrl" : "",
+      "photoUrl" : "http://aidevdays.com/wp-content/uploads/2018/02/Amy-Unruh.jpg",
       "shortBio" : "Amy Unruh is a developer programs engineer for the Google Cloud Platform, where she focuses on machine learning and...",
       "socials" : [ ],
       "title" : "Develop Programs Engineer"
@@ -320,56 +317,61 @@
       "companyLogoUrl" : "",
       "name" : "Balaji Babu Thappalli Rameshbabu",
       "photo" : "",
-      "photoUrl" : "https://www.linkedin.com/in/balaji-babu-thappalli-rameshbabu-68a67710",
+      "photoUrl" : "https://media.licdn.com/dms/image/C5603AQHcXI1AClUeRQ/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=LgBsClfJaoLxikJjwB5owGDgv3qt11vIn8sOm6nWzto",
       "shortBio" : "I am Balaji Babu from Madurai, Tamil Nadu, India. Madurai is famous for its temple city so its called as 'Temple City'...",
       "socials" : [ ],
       "title" : ""
+    },
+    "daniel_myers": {
+      "bio" : "",
+      "company" : "Google",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "name" : "Daniel Myers",
+      "photo" : "",
+      "photoUrl" : "https://media.licdn.com/dms/image/C5603AQEELhdMUB7rqw/profile-displayphoto-shrink_200_200/0?e=1544659200&v=beta&t=H2uddbY0PJu7CRPAxEJ9BXOl1XbbX01OvXZc2yvh7Sk",
+      "shortBio" : "",
+      "socials" : [ ],
+      "title" : "Developer Advocate"
     },
     "emily_glanz" : {
       "bio" : "I'm Emily -- a software engineer at Google! Before Google, I studied Electrical Engineering at the University of Iowa (Go Hawkeyes!). In my free time I like making random things (like AIY Furbies), running, and camping.",
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
+      "featured" : true,
       "name" : "Emily Glanz",
       "photo" : "",
-      "photoUrl" : "",
+      "photoUrl" : "https://media.licdn.com/dms/image/C4E03AQHnMXczuRZ3iw/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=aLbNCUXF2tWtV88NNiiISslOC9qzyFdVk-2R3-CG9Zw",
       "shortBio" : "I'm Emily -- a software engineer at Google! Before Google, I studied Electrical Engineering...",
       "socials" : [ ],
       "title" : "Software Engineer"
     },
     "giorgio_natili" : {
-      "bio" : "",
-      "company" : "",
+      "bio" : "On paper, Giorgio Natili is an engineering lead at Amazon where he leads the layout team of the Kindle organization solving the problem of converting, delivering and rendering the content of millions of books on billions of devices. On the job, Giorgio is a strong proponent of agile development practices whose passion for usable, maintainable and testable code is only surpassed by his determination to make things work. In addition to web-standards-based application development Android and iOS, Giorgio's areas of expertise include real-time communication, accessibility and surfing off the coast of his native Italy. His previous speaking engagements include Adobe Max, 360|Flex, FITC, Codemotion (Rome, Milan and Tel Aviv), Mobile Web Dev Conference, Mobile Tea, Droidcon (Berlin, New York, and Boston), Web Unleashed and many other community-driven events in both Europe and the United States.",
+      "company" : "Amazon",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "name" : "Giorgio Natili",
       "photo" : "",
-      "photoUrl" : "",
-      "shortBio" : "",
-      "socials" : [ ],
-      "title" : ""
-    },
-    "kathy_kam" : {
-      "bio" : "",
-      "company" : "",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "name" : "Kathy Kam",
-      "photo" : "",
-      "photoUrl" : "",
-      "shortBio" : "",
-      "socials" : [ ],
-      "title" : ""
+      "photoUrl" : "https://pbs.twimg.com/profile_images/854096604709736448/myww0ic8_400x400.jpg",
+      "shortBio" : "On paper, Giorgio Natili is an engineering lead at Amazon where he leads the layout team of the Kindle organization...",
+      "socials" : [ {
+        "icon": "twitter",
+        "link": "https://twitter.com/giorgionatili",
+        "name": "Twitter"
+      }],
+      "title" : "Software Engineer Lead"
     },
     "laurence_moroney" : {
-      "bio" : "",
-      "company" : "",
+      "bio" : "Laurence Moroney is a Developer Advocate at Google Brain working on AI and TensorFlow, and author of dozens of programming books including the 'Definitive Guide to Firebase'. He's the host of the award-winning YouTube show 'Coffee With a Googler', and a regular on the Google YouTube Channels. When not Googling, he's also a published Sci-Fi novelist, comic book writer, and screenwriter, and is only too happy to geek out over this stuff.",
+      "company" : "Google",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "name" : "Laurence Moroney",
       "photo" : "",
-      "photoUrl" : "",
-      "shortBio" : "",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/833813140081029120/LQHZlMZE_400x400.jpg",
+      "shortBio" : "Laurence Moroney is a Developer Advocate at Google Brain working on AI and TensorFlow, and author of dozens of programming books...",
       "socials" : [ {
         "icon": "twitter",
         "link": "https://twitter.com/lmoroney",
@@ -383,15 +385,40 @@
         "link" : "https://developers.google.com/experts/people/margaret-maynard-reid",
         "name" : "gde"
       } ],
-      "bio" : "Margaret Maynard-Reid is an ML engineer and software developer building Android apps with intelligence. She leads GDG Seattle, Women Techmakers Seattle and co-organizes Seattle Data/Analytics/Machine Learning. She writes blogs and speaks at conferences on TensorFlow, deep learning and Android. She is passionate about community building and helping others get into Artificial Intelligence and Machine Learning. Prior to her developer career, she led large scale programs at Microsoft, HP and P&G.",
+      "bio" : "Margaret Maynard-Reid is a Google Developer Expert (GDE) for Machine Learning, and she develops Android apps with intelligence. She leads GDG Seattle and co-organizes Seattle Data/Analytics/Machine Learning meetup groups. She writes blogs and speaks at conferences on TensorFlow, deep learning and Android. She is passionate about community building and helping others get into Artificial Intelligence and Machine Learning.",
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
+      "featured" : true,
       "name" : "Margaret Maynard-Reid",
       "photo" : "",
-      "photoUrl" : "",
-      "shortBio" : "",
-      "socials" : [ ],
+      "photoUrl" : "https://developers.google.com/experts/img/user/103983505199499372479.jpg",
+      "shortBio" : "Margaret Maynard-Reid is a Google Developer Expert (GDE) for Machine Learning, and she develops Android apps with intelligence...",
+      "socials" : [{
+        "icon": "twitter",
+        "link": "https://twitter.com/margaretmz",
+        "name": "Twitter"
+      } ],
+      "title" : ""
+    },
+    "martin_omander" : {
+      "bio" : "Martin Omander works for Google in Mountain View, California. His job in the Developer Relations team is to help developers build better software, and improve Google's Cloud Platform to make it even better for that purpose. In his spare time he manages to sneak in some game programming. Before Google, Martin worked at string of startups in Silicon Valley as a software engineer.",
+      "company" : "Google",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "name" : "Martin Omander",
+      "photo" : "",
+      "photoUrl" : "https://static1.squarespace.com/static/57c1ca7846c3c4d923d281a1/57c1d0b56a4963efc2be0814/57c1d0b56a4963efc2be0815/1472319670866/Martin+Omander+Facebook+pic.jpg?format=1500w",
+      "shortBio" : "Martin Omander works for Google in Mountain View, California. His job in the Developer Relations team is to help developers build better software...",
+      "socials" : [ {
+        "icon": "twitter",
+        "link": "https://twitter.com/martinomander",
+        "name": "Twitter"
+      }, {
+        "icon": "website",
+        "link": "http://martinomander.com",
+        "name": "Website"
+      }],
       "title" : ""
     }
   },
@@ -573,58 +600,15 @@
   "tickets" : [ {
     "available" : true,
     "currency" : "$",
-    "ends" : "Oct 13",
-    "info" : "Requires valid student/lecturer ID",
-    "name" : "EDU",
-    "price" : 80,
-    "soldOut" : false,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "$",
-    "ends" : "Mar 31",
-    "inDemand" : false,
-    "info" : "Or first 50 tickets",
-    "name" : "Pre Early Bird",
-    "price" : 100,
-    "regular" : true,
-    "soldOut" : true,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "ends" : "Jun 30",
-    "inDemand" : true,
-    "info" : "Or first 200 tickets",
-    "name" : "Early Bird",
-    "price" : 120,
-    "regular" : true,
-    "soldOut" : false,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "$",
-    "ends" : "Sep 30",
-    "inDemand" : false,
-    "info" : "Or first 350 tickets",
+    "ends" : "Oct 27",
+    "info" : "",
     "name" : "Regular",
-    "price" : 160,
+    "price" : 20,
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
-    "starts" : "Jul 1",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "info" : "Money worth nothing when you love it",
-    "name" : "I Love DFUA",
-    "price" : 280,
-    "soldOut" : false,
-    "url" : "https://2event.com/events/1027108"
+    "starts" : "Oct 15",
+    "url" : "https://www.eventbrite.com/e/devfest-seattle-2018-tickets-50408043816"
   } ],
   "triggers" : {
     "images" : false
