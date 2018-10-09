@@ -6,7 +6,7 @@
   "dates": "November 3, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
-  "followOur": "Follow our",
+  "followOur": "",
   "followUs": "Follow us",
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
@@ -25,7 +25,7 @@
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
   "footer": {
-    "blog": "Blog"
+    "blog": ""
   },
   "mySchedule": {
     "title": "My Schedule",
@@ -36,8 +36,8 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Seattle",
+          "url": "https://www.meetup.com/gdg-seattle/",
           "newTab": true
         },
         {
@@ -47,7 +47,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "url": "https://www.meetup.com/gdg-seattle/members/?op=leaders",
           "newTab": true
         }
       ]
@@ -56,23 +56,13 @@
       "title": "Explore Past DevFests",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "GDG Devfest Seattle 2016",
+          "url": "http://2016.devfestseattle.org/",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "GDG Devfest Seattle 2017",
+          "url": "http://2017.devfestseattle.org/",
           "newTab": true
         }
       ]
@@ -82,28 +72,23 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "mailto:gdgseattle@googlemail.com",
           "newTab": true
         },
         {
           "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "mailto:gdgseattle@googlemail.com",
           "newTab": true
         },
         {
-          "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "name": "Code of Conduct",
+          "url": "https://www.meetup.com/gdg-seattle/pages/19210302/Code_of_Conduct/",
           "newTab": true
         },
         {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
+          "name": "GDG Seattle",
+          "url": "https://www.meetup.com/gdg-seattle/",
+          "newTab": true
         }
       ]
     }
@@ -220,7 +205,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Seattle](https://www.meetup.com/gdg-seattle/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with our Seattle audience."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -249,7 +234,7 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "https://pbs.twimg.com/media/DgaUCDlUwAA6KsZ.jpg",
     "blocks": [
       {
         "title": "What is GDG?",
