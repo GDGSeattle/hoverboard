@@ -229,7 +229,7 @@
     },
     "110" : {
       "description" : "In this session, you will learn how to install and use Kubeflow to create a full machine learning application on Kubernetes. Using a publicly available dataset of GitHub Issues, you will build an automatic summary generator. Starting with an empty Kubernetes cluster, you will install Kubeflow from scratch, then train a sequence-to-sequence model using Tensorflow. You will then serve your model and interact with the resulting predictions from a web front-end. You will become familiar with Google Cloud Platform tools such as Cloud Shell, Kubernetes Engine, Cloud Storage, and Container Registry. All components are built from source in the Kubeflow Examples repository and are directly transferable to other environments (local, on-prem, and other cloud providers).",
-      "tags" : [ "Cloud" ],
+      "tags" : [ "Cloud", "Machine Learning" ],
       "title" : "Kubeflow End-to-End",
       "speakers": [ "amy_unruh" ]
     },
@@ -312,10 +312,16 @@
       "title" : "Software Engineer"
     },
     "giorgio_natili" : {
+      "badges" : [ {
+        "description" : "Web Technologies Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/giorgio-natili",
+        "name" : "gde"
+      } ],
       "bio" : "On paper, Giorgio Natili is an engineering lead at Amazon where he leads the layout team of the Kindle organization solving the problem of converting, delivering and rendering the content of millions of books on billions of devices. On the job, Giorgio is a strong proponent of agile development practices whose passion for usable, maintainable and testable code is only surpassed by his determination to make things work. In addition to web-standards-based application development Android and iOS, Giorgio's areas of expertise include real-time communication, accessibility and surfing off the coast of his native Italy. His previous speaking engagements include Adobe Max, 360|Flex, FITC, Codemotion (Rome, Milan and Tel Aviv), Mobile Web Dev Conference, Mobile Tea, Droidcon (Berlin, New York, and Boston), Web Unleashed and many other community-driven events in both Europe and the United States.",
       "company" : "Amazon",
       "companyLogo" : "",
       "companyLogoUrl" : "",
+      "featured" : true,
       "name" : "Giorgio Natili",
       "photo" : "",
       "photoUrl" : "https://pbs.twimg.com/profile_images/854096604709736448/myww0ic8_400x400.jpg",
@@ -332,6 +338,7 @@
       "company" : "Google",
       "companyLogo" : "",
       "companyLogoUrl" : "",
+      "featured" : true,
       "name" : "Laurence Moroney",
       "photo" : "",
       "photoUrl" : "https://pbs.twimg.com/profile_images/833813140081029120/LQHZlMZE_400x400.jpg",
@@ -353,7 +360,6 @@
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "featured" : true,
       "name" : "Margaret Maynard-Reid",
       "photo" : "",
       "photoUrl" : "https://developers.google.com/experts/img/user/103983505199499372479.jpg",
@@ -451,7 +457,7 @@
     "ends" : "Oct 27",
     "info" : "",
     "name" : "Regular",
-    "price" : 20,
+    "price" : 38,
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
