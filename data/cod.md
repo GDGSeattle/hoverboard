@@ -1,4 +1,4 @@
-[GDG Seattle Code of Conduct](https://www.meetup.com/gdg-seattle/pages/19210302/Code_of_Conduct/)
+## [GDG Seattle Code of Conduct](https://www.meetup.com/gdg-seattle/pages/19210302/Code_of_Conduct/)
 
 GDG Seattle is an inclusive community where developers, designers, and entrepreneurs of all skill levels, genders, religions, and backgrounds welcome to learn, practice, and share Google technologies, services, and platforms. Our motto is:
 
@@ -14,6 +14,9 @@ We require participants to respect others' boundaries and do not tolerate delibe
 
 If a participant engages in harassing behavior, the organizers will take any action they deem appropriate, including warning the offender or expulsion from the event with no refund. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact: [gdg-seattle-organizers@googlegroups.com](mailto:gdg-seattle-organizers@googlegroups.com)
+
+### Contacting the GDG Seattle team
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact: [gdgseattle@gmail.com](mailto:gdgseattle@gmail.com)
 
 [https://developers.google.com/programs/community/gdg/resources/](https://developers.google.com/programs/community/gdg/resources/)
