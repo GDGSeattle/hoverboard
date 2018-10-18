@@ -115,17 +115,11 @@
       }, {
         "endTime" : "12:00",
         "sessions" : [ {
-          "items" : [ 105 ]
+          "items" : [ 106 ]
         } ],
         "startTime" : "11:30"
       }, {
         "endTime" : "13:00",
-        "sessions" : [ {
-          "items" : [ 106 ]
-        } ],
-        "startTime" : "12:00"
-      }, {
-        "endTime" : "12:05",
         "sessions" : [ {
           "items" : [ 107 ]
         } ],
@@ -180,8 +174,8 @@
       "title" : "Registration and Breakfast"
     },
     "102" : {
-      "description" : "TBDs",
-      "title" : "Actions on Google (?)",
+      "description" : "Keynote for actions on google and google assistant. ",
+      "title" : "Keynote: Actions on Google",
       "tags" : [ "Cloud" ],
       "speakers": [ "daniel_myers" ]
     },
@@ -196,12 +190,6 @@
       "tags" : [ "Machine Learning" ],
       "title" : "Federated Learning",
       "speakers": [ "emily_glanz" ]
-    },
-    "105" : {
-      "description" : "TBD",
-      "tags" : [ "Cloud" ],
-      "title" : "A friendly introduction to gRPC",
-      "speakers": [ "ahmet_alp_balkan" ]
     },
     "106" : {
       "description" : "Basic approach of Android things.",
@@ -249,18 +237,6 @@
     }
   },
   "speakers" : {
-    "ahmet_alp_balkan" : {
-      "bio" : "Ahmet is a software engineer working on open source infrastructure and operations tools like Kubernetes, Knative and GKE at Google Cloud. He’s passionate about microservices architectures, RPC frameworks and developer tooling.",
-      "company" : "Google",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "name" : "Ahmet Alp Balkan",
-      "photo" : "",
-      "photoUrl" : "https://media.licdn.com/dms/image/C5603AQF2YmOLtpm1Bg/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=zk0pYerOQfMtKNJgwET-cGe2lX7EBaLdYHi_rzLSUjY",
-      "shortBio" : "",
-      "socials" : [ ],
-      "title" : "Software Engineer"
-    },
     "amy_unruh" : {
       "bio" : "Amy Unruh is a developer programs engineer for the Google Cloud Platform, where she focuses on machine learning and data analytics as well as other Cloud Platform technologies. Amy has an academic background in CS/AI and has also worked at several startups, done industrial R&D, and published a book on App Engine.",
       "company" : "Google",
@@ -287,15 +263,19 @@
       "title" : ""
     },
     "daniel_myers": {
-      "bio" : "",
+      "bio" : "Daniel Myers is a Developer Advocate at Google working on Google Assistant and Actions on Google. He helps developers and businesses be successful by finding simple solutions to complex problems. He’s lead multiple startups with successful exits and is an inventor of 3 patents. If you don’t find Daniel coding, you’ll probably find him talking about a new business idea.",
       "company" : "Google",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "name" : "Daniel Myers",
       "photo" : "",
-      "photoUrl" : "https://media.licdn.com/dms/image/C5603AQEELhdMUB7rqw/profile-displayphoto-shrink_200_200/0?e=1544659200&v=beta&t=H2uddbY0PJu7CRPAxEJ9BXOl1XbbX01OvXZc2yvh7Sk",
-      "shortBio" : "",
-      "socials" : [ ],
+      "photoUrl" : "../images/speakers/dan.jpeg",
+      "shortBio" : "Daniel Myers is a Developer Advocate at Google working on Google Assistant and Actions on Google. He helps developers and businesses be successful by finding simple solutions to complex problems...",
+      "socials" : [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/jdanielmyers/",
+        "name": "LinkedIn"
+      } ],
       "title" : "Developer Advocate"
     },
     "emily_glanz" : {
@@ -305,8 +285,7 @@
       "companyLogoUrl" : "",
       "featured" : true,
       "name" : "Emily Glanz",
-      "photo" : "",
-      "photoUrl" : "https://media.licdn.com/dms/image/C4E03AQHnMXczuRZ3iw/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=aLbNCUXF2tWtV88NNiiISslOC9qzyFdVk-2R3-CG9Zw",
+      "photoUrl" : "../images/speakers/emily.jpg",
       "shortBio" : "I'm Emily -- a software engineer at Google! Before Google, I studied Electrical Engineering...",
       "socials" : [ ],
       "title" : "Software Engineer"
@@ -323,8 +302,7 @@
       "companyLogoUrl" : "",
       "featured" : true,
       "name" : "Giorgio Natili",
-      "photo" : "",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/854096604709736448/myww0ic8_400x400.jpg",
+      "photoUrl" : "../images/speakers/giorgio.jpg",
       "shortBio" : "On paper, Giorgio Natili is an engineering lead at Amazon where he leads the layout team of the Kindle organization...",
       "socials" : [ {
         "icon": "twitter",
