@@ -31,6 +31,8 @@
       if (!this.speakersFetching && (!this.speakers || !this.speakers.length)) {
         this.dispatch(speakersActions.fetchList());
       }
+      this.dispatch(sessionsActions.fetchList());
+      this.dispatch(scheduleActions.fetchSchedule());
     }
   };
 </script>

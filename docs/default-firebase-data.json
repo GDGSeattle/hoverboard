@@ -429,12 +429,25 @@
     } ],
     "title" : "Core Team"
   } ],
-  "tickets" : [ {
+  "tickets" : [
+    {
+      "available" : true,
+      "currency" : "$",
+      "ends" : "Oct 27",
+      "info" : "",
+      "name" : "Student",
+      "price" : 19,
+      "primary" : true,
+      "regular" : true,
+      "soldOut" : false,
+      "starts" : "Oct 15",
+      "url" : "https://www.eventbrite.com/e/devfest-seattle-2018-tickets-50408043816"
+    }, {
     "available" : true,
     "currency" : "$",
     "ends" : "Oct 27",
     "info" : "",
-    "name" : "Regular",
+    "name" : "General",
     "price" : 38,
     "primary" : true,
     "regular" : true,
