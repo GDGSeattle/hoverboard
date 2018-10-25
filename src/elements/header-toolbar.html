@@ -40,8 +40,8 @@
 
       .toolbar-logo {
         display: block;
-        width: 150px;
-        height: 32px;
+        width: 100px;
+        height: 40px;
         background-color: var(--default-primary-color);
         transition: background-color var(--animation);
         -webkit-mask: url('/images/logos/DevFest_Seattle_2018_black.png') no-repeat;
@@ -135,7 +135,8 @@
         ></paper-icon-button>
       </div>
       <div layout horizontal center flex>
-        <a class="toolbar-logo" href="/" hidden$="[[!viewport.isLaptopPlus]]" layout horizontal title="{$ title $}"></a>
+        <a class="toolbar-logo" href="/" hidden$="[[!viewport.isLaptopPlus]]" layout horizontal title="{$ title $}">
+        </a>
       </div>
 
       <paper-tabs

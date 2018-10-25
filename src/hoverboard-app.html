@@ -146,7 +146,7 @@
 
       <app-drawer id="drawer" slot="drawer" opened="[[ui.isDrawerOpened]]" swipe-open>
         <app-toolbar layout vertical start>
-          <img style="width:200px" src="/images/logos/DevFest_Seattle_2018_black.png" alt="{$ title $}">
+          <img src="/images/logos/DevFest_Seattle_2018_black.svg" style="height: 100px; width: 200px;">
           <h2 class="dates">{$ dates $}</h2>
           <h3 class="location">{$ location.short $}</h3>
         </app-toolbar>
@@ -342,6 +342,8 @@
             message: '{$ offlineMessage $}',
           });
         });
+        this.dispatch(teamActions.fetchTeam());
+        this.dispatch(speakersActions.fetchList());
         this.dispatch(ticketsActions.fetchTickets());
       }
 

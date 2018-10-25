@@ -56,6 +56,21 @@
       "title": "Explore Past DevFests",
       "links": [
         {
+          "name": "GDG Devfest Seattle 2013",
+          "url": "https://www.meetup.com/gdg-seattle/events/125948972/",
+          "newTab": true
+        },
+        {
+          "name": "GDG Devfest Seattle 2014",
+          "url": "https://www.meetup.com/gdg-seattle/events/155658502/",
+          "newTab": true
+        },
+        {
+          "name": "GDG Devfest Seattle 2015",
+          "url": "https://www.meetup.com/gdg-seattle/events/224992988/",
+          "newTab": true
+        },
+        {
           "name": "GDG Devfest Seattle 2016",
           "url": "http://2016.devfestseattle.org/",
           "newTab": true
