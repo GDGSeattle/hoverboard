@@ -103,7 +103,7 @@
       }, {
         "endTime" : "11:00",
         "sessions" : [ {
-          "items" : [ 103 ]
+          "items" : [ 111 ]
         } ],
         "startTime" : "10:30"
       }, {
@@ -113,56 +113,70 @@
         } ],
         "startTime" : "11:00"
       }, {
-        "endTime" : "12:00",
+        "endTime" : "11:50",
         "sessions" : [ {
-          "items" : [ 106 ]
+          "items" : [ 114 ]
         } ],
         "startTime" : "11:30"
       }, {
-        "endTime" : "13:00",
+        "endTime" : "11:55",
+        "sessions" : [ {
+          "items" : [ 106 ]
+        } ],
+        "startTime" : "11:50"
+      }, {
+        "endTime" : "1:00",
         "sessions" : [ {
           "items" : [ 107 ]
         } ],
         "startTime" : "12:00"
       }, {
-        "endTime" : "13:15",
+        "endTime" : "1:30",
         "sessions" : [ {
-          "items" : [ 108 ]
+          "items" : [ 103 ]
         } ],
-        "startTime" : "13:00"
+        "startTime" : "1:00"
       }, {
-        "endTime" : "13:30",
-        "sessions" : [ {
-          "items" : [ 109 ]
-        } ],
-        "startTime" : "13:15"
-      }, {
-        "endTime" : "14:00",
+        "endTime" : "2:00",
         "sessions" : [ {
           "items" : [ 110 ]
         } ],
-        "startTime" : "13:30"
+        "startTime" : "1:30"
       }, {
-        "endTime" : "14:30",
+        "endTime" : "2:15",
         "sessions" : [ {
-          "items" : [ 111 ]
+          "items" : [ 108 ]
         } ],
-        "startTime" : "14:00"
+        "startTime" : "2:00"
       }, {
-        "endTime" : "15:30",
+        "endTime" : "2:30",
         "sessions" : [ {
+          "items" : [ 109 ]
+        } ],
+        "startTime" : "2:15"
+      }, {
+        "endTime" : "3:30",
+        "sessions" : [ {
+          "items" : [ 115 ]
+        }, {
           "items" : [ 112 ]
+        }, {
+          "items" : [ 116 ]
         } ],
-        "startTime" : "14:30"
+        "startTime" : "2:30"
       }, {
-        "endTime" : "16:00",
+        "endTime" : "4:00",
         "sessions" : [ {
           "items" : [ 113 ]
         } ],
-        "startTime" : "15:30"
+        "startTime" : "3:30"
       } ],
       "tracks" : [ {
         "title" : "Okanogan River"
+      }, {
+        "title" : "Snake River"
+      }, {
+        "title": "Yakima River"
       } ]
     }
   },
@@ -222,18 +236,34 @@
       "speakers": [ "amy_unruh" ]
     },
     "111" : {
-      "description" : "",
-      "title" : "Tensorflow Lite",
-      "tags": [ "Machine Learning"],
+      "description" : "I will share with you how Google thinks about AI, including a primer in what it is and what it isn't. I'll go into a few examples of how ML will change your job as a developer before showing how ML models are built. Finally I will show you how to deploy an ML model to Android and running inference with it using TensorFlow Lite.",
+      "title" : "AI in the palm of your hand",
+      "tags": [ "Machine Learning", "Android"],
       "speakers": [ "laurence_moroney" ]
     },
     "112" : {
       "description" : "",
-      "title" : "Codelabs"
+      "title" : "Codelab: Actions on Google",
+      "tags" : [ "Cloud" ]
+    },
+    "115" : {
+      "description" : "",
+      "title" : "Codelab: Machine learning and TensorFlow",
+      "tags": [ "Machine Learning"]
+    },
+    "116" : {
+      "description" : "",
+      "title" : "Codelab: Flutter",
+      "tags" : [ "Dart" ]
     },
     "113" : {
       "description" : "",
       "title" : "Show and Tell"
+    },
+    "114" : {
+      "description": "Over this past year, many in the community have taken on the challenge of learning new skills through the Grow With Google scholarship program. Through this program, in conjunction with Udacity & Google, students have had the opportunity to positively impact their careers through continued education in fields such as Android & web development. This lightning talk will highlight what this program is, how it has impacted those in the community.",
+      "title": "Growing With Google",
+      "speakers": ["nate_ebel"]
     }
   },
   "speakers" : {
@@ -368,6 +398,12 @@
         "name": "Website"
       }],
       "title" : ""
+    },
+    "nate_ebel": {
+      "bio": "Nate is an Android developer working on mobile apps at Udacity. He strongly believes in lifelong learning and in helping others do the same. Nate is an active blogger, speaker, and YouTuber; all to help make learning more accessible to others. He’s worked across the Android ecosystem building education products, mapping applications, as well as evolving autonomous robots using Android devices. He loves to chat about Android, tech, careers, geekery or anything else; so feel free to reach out.",
+      "shortBio": "Nate is an Android developer working on mobile apps at Udacity. He strongly believes in lifelong learning and in helping others do the same...",
+      "name": "Nate Ebel",
+      "photoUrl": "https://media.licdn.com/dms/image/C5103AQEhET7Ql8BtFA/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=W5oGyXdpruBj4XCGIrBb8vD7-voWqw8txmoiMV-lviw"
     }
   },
   "team" : [ {
